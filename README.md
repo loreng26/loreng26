@@ -8,7 +8,7 @@ I'm a Computer Science & Cybersecurity student at Missouri Valley College, curre
 - 📊 Aspiring Data Analyst
 - 💻 Currently developing skills in SQL, Python, Power BI, Excel, and Statistics
 - 📚 Building data analytics projects and developing my portfolio
-- 🌎 Interested in Data Analytics and Business Intelligence
+- 🌎 Interested in Data Analytics, Business Intelligence, and Data-Driven Decision Making
 
 ## 🛠️ Skills
 
@@ -17,7 +17,6 @@ I'm a Computer Science & Cybersecurity student at Missouri Valley College, curre
 - Python
 - Microsoft Excel
 - Statistics
-- Data Analysis
 
 ### Business Intelligence & Visualization
 - Microsoft Power BI
