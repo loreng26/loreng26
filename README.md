@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Guilherme 👋
 
-<!--
-**loreng26/loreng26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science & Cybersecurity student at Missouri Valley College, currently building my skills and career in Data Analytics and Business Intelligence.
 
-Here are some ideas to get you started:
+## 🎯 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Computer Science & Cybersecurity student at Missouri Valley College
+- 📊 Aspiring Data Analyst
+- 💻 Currently developing skills in SQL, Python, Power BI, Excel, and Statistics
+- 📚 Building data analytics projects and developing my portfolio
+- 🌎 Interested in Data Analytics and Business Intelligence
+
+## 🛠️ Skills
+
+### Data Analytics
+- SQL
+- Python
+- Microsoft Excel
+- Statistics
+- Data Analysis
+
+### Business Intelligence & Visualization
+- Microsoft Power BI
+- Power Query
+- DAX
+- Data Visualization
+
+### Tools
+- Git
+- GitHub
+
+## 📂 Featured Projects
+
+Projects will be added here as I build my portfolio.
+
+## 📫 Connect With Me
+
+- LinkedIn: [Guilherme Pinheiro Lorenzini](https://www.linkedin.com/in/guilhermelorenzini/)
